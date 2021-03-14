@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811271724259",
+    "project_id": "linocinema-2020",
+    "storage_bucket": "linocinema-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811271724259:android:9a24ca4156d88fc5c279d6",
+        "android_client_info": {
+          "package_name": "com.linocinema.linocinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811271724259-olucrmuq4nvvq2e0o5s0ri92chlv6enm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn38xg71xWUbDse4prVLmyTk8SjdZu1kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811271724259-olucrmuq4nvvq2e0o5s0ri92chlv6enm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
