@@ -103,8 +103,7 @@ class _ExploreState extends State<Explore> {
                       (((MediaQuery.of(context).size.height) / 7) /
                           ((MediaQuery.of(context).size.width) / 2)),
                 ),
-                itemCount: 3,
-                // itemCount: widget.explores.length,
+                itemCount: widget.explores.length,
                 itemBuilder: (context, index) {
                   return exploreCard(context, widget.explores[index]);
                 },

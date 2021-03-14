@@ -101,8 +101,7 @@ class _MoviesState extends State<Movies> {
                       (((MediaQuery.of(context).size.height) / 7) /
                           ((MediaQuery.of(context).size.width) / 2)),
                 ),
-                itemCount: 3,
-                // itemCount: widget.movies.length,
+                itemCount: widget.movies.length,
                 itemBuilder: (context, index) {
                   return moviesCard(context, widget.movies[index]);
                 },

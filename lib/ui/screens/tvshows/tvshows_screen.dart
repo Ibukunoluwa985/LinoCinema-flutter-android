@@ -101,8 +101,7 @@ class _TvshowsState extends State<Tvshows> {
                       (((MediaQuery.of(context).size.height) / 7) /
                           ((MediaQuery.of(context).size.width) / 2)),
                 ),
-                itemCount: 3,
-                // itemCount: widget.tvshows.length,
+                itemCount: widget.tvshows.length,
                 itemBuilder: (context, index) {
                   return tvshowsCard(context, widget.tvshows[index]);
                 },
