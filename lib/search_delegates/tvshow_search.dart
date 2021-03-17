@@ -8,7 +8,7 @@ class TvshowSearch extends SearchDelegate {
   List suggestionstvshows = [];
 
   @override
-  String get searchFieldLabel => "Search for movie only";
+  String get searchFieldLabel => "Search for tvshow only";
 
   @override
   TextStyle get searchFieldStyle => TextStyle(fontSize: 14.0);
