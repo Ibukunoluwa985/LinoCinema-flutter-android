@@ -30,7 +30,7 @@ This is the LinoCinema open source movie and tvshow android application supporti
 
 :heavy_check_mark: Free Movies;\
 :heavy_check_mark: Free Tvshows;\
-:heavy_check_mark: Explore (Shuffle);
+:heavy_check_mark: Explore (Shuffle);\
 :heavy_check_mark: Movie or Tvshow request;
 
 ## :rocket: Technologies ##
@@ -51,10 +51,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Ibukunoluwa985/linocinema
+$ git clone https://github.com/Ibukunoluwa985/LinoCinema-app
 
 # Access
-$ cd linocinema
+$ cd LinoCinema-app
 
 # Run the project
 $ Flutter run
